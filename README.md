@@ -7,7 +7,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 Öncelikle projeyi clonelayın. 
 `git clone https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/ornekreadme.md`
 
-# Uage
+# Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
